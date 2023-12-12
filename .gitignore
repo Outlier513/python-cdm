@@ -1,2 +1,6 @@
+.gitignore
 /tmp
 /data
+/__pycache__
+/DINA/GD/
+/IRT/
